@@ -7,12 +7,17 @@ Autorzy: Alicja Kałuża, Daria Kokot, Jakub Baran
 Projekt zrealizowany w ramach przedmiotu Metody Inteligencji Obliczeniowej.
 
 Zawartość:
-* a
-* n
-* a
+* realdonaldtrump/
+  - test.xls
+  - realdonaldtrump.csv
+  
+* RealDonaldTrumpTweets_DistilBERT.ipynb
+* RealDonaldTrumpTweets_SiecKonwolucyjna.ipynb
+* RealDonaldTrumpTweets_Sprawozdanie.pdf
 
 
 Instrukcja:
-1. a
-2. a
-3. a
+1. Zapisz na Głównej stronie swojego Dysku Google folder realdonaldtrump/ z zawartością
+2. Uruchom notatnik w Colab wykonując komórki kodu po kolei
+
+* Operacje wykonuj na tym samym koncie Google oraz sesji Colab
