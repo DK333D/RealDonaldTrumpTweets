@@ -19,5 +19,8 @@ Zawartość:
 Instrukcja:
 1. Zapisz na Głównej stronie swojego Dysku Google folder realdonaldtrump/ z zawartością
 2. Uruchom notatnik w Colab wykonując komórki kodu po kolei
+  - RealDonaldTrumpTweets_DistilBERT.ipynb to implementcja modelu DistilBERT
+  - RealDonaldTrumpTweets_SiecKonwolucyjna.ipynb to implementacja sieci konwolucyjnej
+
 
 * Operacje wykonuj na tym samym koncie Google oraz sesji Colab
